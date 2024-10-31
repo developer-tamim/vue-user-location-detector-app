@@ -1,5 +1,18 @@
-# Vue 3 + Vite
+# Location Detector App (VueJs + Semantic UI)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<h2>STEP 1</h2>
+Install the npm dependency packages by running the "npm i/npm install" command
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+<h2>STEP 2</h2>
+
+Then run the app by running the "npm run dev" command
+
+<h2>STEP 3</h2>
+
+Change [YOUR_API_KEY] to your actual Google's API Key in 2 locations.
+
+<!-- 1.  Maps JavaScript Library URL in the index.html file
+
+2. Inside the getAddressFrom() function in the UserLocation.vue file -->
+
+
